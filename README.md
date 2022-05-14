@@ -1,17 +1,15 @@
 Hola, soy Antonio Novoa
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovoaDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Business Central
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NovoaDev&repo=ESTRELLADOS-AL-DEVTOOLS-EAD-)](https://github.com/NovoaDev/ESTRELLADOS-AL-DEVTOOLS-EAD-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NovoaDev&repo=Business-Central-Examples)](https://github.com/NovoaDev/Business-Central-Examples)
 
+Powershell
 
-
-# Otros
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NovoaDev&repo=Business-Central-Examples)](https://github.com/NovoaDev/Business-Central-Examples)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NovoaDev&repo=Business-Central-Examples)](https://github.com/NovoaDev/Business-Central-Examples)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NovoaDev&repo=Script-Pre-Upgrade-Dynamics-NAV)](https://github.com/NovoaDev/Script-Pre-Upgrade-Dynamics-NAV)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NovoaDev&repo=Script-Pre-Upgrade-Dynamics-NAV)](https://github.com/NovoaDev/Script-Pre-Upgrade-Dynamics-NAV)
 
