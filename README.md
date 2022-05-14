@@ -1,18 +1,5 @@
 Hola, soy Antonio Novoa
 
-
-Business Central
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NovoaDev&repo=ESTRELLADOS-AL-DEVTOOLS-EAD-)](https://github.com/NovoaDev/ESTRELLADOS-AL-DEVTOOLS-EAD-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NovoaDev&repo=Business-Central-Examples)](https://github.com/NovoaDev/Business-Central-Examples)
-
-Powershell
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NovoaDev&repo=Business-Central-Examples)](https://github.com/NovoaDev/Business-Central-Examples)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NovoaDev&repo=Script-Pre-Upgrade-Dynamics-NAV)](https://github.com/NovoaDev/Script-Pre-Upgrade-Dynamics-NAV)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NovoaDev&repo=Script-Pre-Upgrade-Dynamics-NAV)](https://github.com/NovoaDev/Script-Pre-Upgrade-Dynamics-NAV)
-
 <!--
 **NovoaDev/NovoaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
