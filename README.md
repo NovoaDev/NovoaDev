@@ -2,6 +2,9 @@
 ![NovoaDev GitHub stats](https://github-readme-stats.vercel.app/api?username=NovoaDev&theme=dark&show_icons=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NovoaDev&hide=contribs,prs)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NovoaDev&repo=Business-Central-Examples)](https://github.com/NovoaDev/Business-Central-Examples)
+
 <!--
 **NovoaDev/NovoaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
