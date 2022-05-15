@@ -29,8 +29,8 @@ Bio completa novoa.dev/about
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 ### Proyecto
-A medidos del 2022 empiezo a crear un nuevo proyecto llamado Beerness Central la idea es que inicie a finales de dicho año.
-Me encantaría poder crear una comunidad, conocer gente con los mismos intereses que contemos nuestra historia en BC, aciertos, desaciertos, etc. Si con eso podemos aportar valor a otras personas es lo que nos llevamos.
+A mediados del 2022 empiezo a crear un nuevo proyecto llamado "Beerness Central" la idea es que inicie a finales de dicho año.
+Me encantaría poder crear una comunidad movida por la pasión, conocer gente con los mismos intereses que contemos nuestra historia en BC, aciertos, desaciertos, etc. Si con eso podemos aportar valor a otras personas es lo que nos llevamos.
 <br>
 <a href="https://discord.gg/ssf9QkGGQE">![Discord](https://img.shields.io/discord/974752053471629322?logo=discord&style=flat-square&label=Grupo%20de%20Discord)</a>
 
