@@ -3,8 +3,6 @@
 </a>
 WIP: Bio bio
 
-<br>
-
 ### Tecnologías
 ![AL](https://img.shields.io/badge/-AL-black?style=flat-square&logo=Microsoft)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=PowerShell)
@@ -29,6 +27,3 @@ WIP: Bio bio
 [<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/tiktok.svg" alt="tiktok" width="25"></img>](https://www.tiktok.com/@novoadev) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/instagram.svg" alt="instagram" width="25"></img>](https://www.instagram.com/novoadev) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/facebook.svg" alt="facebook" width="25"></img>](https://www.facebook.com/NovoaDev-100238706035465) &nbsp;&nbsp;&nbsp;
-
-
-<br> 
