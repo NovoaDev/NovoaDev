@@ -1,8 +1,7 @@
+<a href="https://discord.gg/ssf9QkGGQE">![Discord](https://img.shields.io/discord/974752053471629322?logo=discord&style=flat-square&label=Grupo%20de%20Discord)</a>
 <a href="https://novoa.dev/" style="width:100%">
     <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/headerlogo.png" width="100%" alt="header" border="0" />
 </a>
-
-<a href="https://discord.gg/ssf9QkGGQE">![Discord](https://img.shields.io/discord/974752053471629322?logo=discord&style=flat-square&label=Grupo%20de%20Discord)</a>
 
 WIP: Bio bio
 
