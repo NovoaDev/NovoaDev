@@ -3,8 +3,6 @@
 </a>
 WIP: Bio bio
 
-<br>
-
 ### Tecnologías
 ![AL](https://img.shields.io/badge/-AL-black?style=flat-square&logo=Microsoft)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=PowerShell)
@@ -20,10 +18,12 @@ WIP: Bio bio
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-### Contacto
+### Redes
+
+[<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/twitch.svg" alt="twitch" width="25"></img>](https://www.twitch.tv/novoadev) &nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/youtube.svg" alt="tiktok" width="25"></img>](https://www.youtube.com/channel/UCXEjWpvcc0lV8WsNnM8Oe-Q) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/twitter.svg" alt="twitter" width="25"></img>](https://twitter.com/NovoaDev) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/linkedin.svg" alt="linkedin" width="25"></img>](https://linkedin.com/in/novoadev) &nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/tiktok.svg" alt="tiktok" width="25"></img>](https://www.tiktok.com/@novoadev) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/instagram.svg" alt="instagram" width="25"></img>](https://www.instagram.com/novoadev) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/facebook.svg" alt="facebook" width="25"></img>](https://www.facebook.com/NovoaDev-100238706035465) &nbsp;&nbsp;&nbsp;
-[<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/tiktok.svg" alt="tiktok" width="25"></img>](https://www.tiktok.com/@novoadev) &nbsp;&nbsp;&nbsp;
-<br>
