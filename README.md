@@ -33,6 +33,8 @@ A mediados del 2022 empiezo a crear un nuevo proyecto llamado "Beerness Central"
 <br>
 Me encantaría poder organizar una comunidad impulsada por la pasión, donde conozcamos gente con los mismos intereses, contemos nuestra historia en BC, aciertos, desaciertos, etc. Si con eso podemos aportar valor a otras personas es lo que nos llevamos.
 <br>
+Recibir y brindar feedback positivo y constructivos.
+<br>
 <a href="https://discord.gg/ssf9QkGGQE">![Discord](https://img.shields.io/discord/974752053471629322?logo=discord&style=flat-square&label=Grupo%20de%20Discord)</a>
 
 ### Redes
