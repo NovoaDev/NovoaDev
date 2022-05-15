@@ -1,5 +1,7 @@
-Hola, soy Antonio Novoa
-
+<a href="https://novoa.dev/" style="width:100%">
+    <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/twitter.svg" width="100%" alt="header" border="0" />
+</a>
+WIP: Bio bio
 <br>
 
   ### Contacto
@@ -8,17 +10,3 @@ Hola, soy Antonio Novoa
   [<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/instagram.svg" alt="instagram" width="25"></img>](https://www.instagram.com/novoadev)
 
 <br>
-<!--
-**NovoaDev/NovoaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
