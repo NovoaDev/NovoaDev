@@ -1,9 +1,17 @@
-<a href="https://discord.gg/ssf9QkGGQE">![Discord](https://img.shields.io/discord/974752053471629322?logo=discord&style=flat-square&label=Grupo%20de%20Discord)</a>
 <a href="https://novoa.dev/" style="width:100%">
     <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/headerlogo.png" width="100%" alt="header" border="0" />
 </a>
 
-WIP: Bio bio
+### Sobre mi:
+Hola, mi nombre es Antonio Novoa,
+<br>
+Me considero una persona creativa, correcta, dispersa e inquieta. Con una curiosidad inmensa por entender el porqué de las cosas.
+<br>
+A finales del 2018 por cosas de la vida conocí el mundo del ERP. Sin conocer nada de la historia de Navison/Business Central empezó mi carrera profesional como "programador de Business Central". 
+<br>
+Aunque había programado año y medio en otra tecnología en mi anterior trabajo todo era nuevo para mi. Me encontré de frente con una pared inmensa. Tantos conceptos, tanta teoria y tanto mundo por descrubrir.  
+
+Bio completa novoa.dev/about
 
 ### Tecnologías
 ![AL](https://img.shields.io/badge/-AL-black?style=flat-square&logo=Microsoft)
@@ -20,8 +28,10 @@ WIP: Bio bio
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-### Redes
+### Proyecto
+<a href="https://discord.gg/ssf9QkGGQE">![Discord](https://img.shields.io/discord/974752053471629322?logo=discord&style=flat-square&label=Grupo%20de%20Discord)</a>
 
+### Redes
 [<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/twitch.svg" alt="twitch" width="25"></img>](https://www.twitch.tv/novoadev) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/youtube.svg" alt="tiktok" width="25"></img>](https://www.youtube.com/channel/UCXEjWpvcc0lV8WsNnM8Oe-Q) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/twitter.svg" alt="twitter" width="25"></img>](https://twitter.com/NovoaDev) &nbsp;&nbsp;&nbsp;
