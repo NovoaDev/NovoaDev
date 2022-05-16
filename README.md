@@ -4,8 +4,9 @@
 
 ### Sobre mi:
 Hola, mi nombre es Antonio Novoa,
+<img align='right' src="https://github.com/NovoaDev/NovoaDev/blob/main/res/cat.gif" height="" width="300" alt="coding cat">
 <br>
-Me considero una persona creativa, correcta, dispersa e inquieta. Con una curiosidad inmensa por entender el porqué de las cosas.
+Me considero una persona creativa, correcta, dispersa e inquieta.
 <br>
 A finales del 2018 por cosas de la vida conocí el mundo del ERP. Sin conocer nada de la historia de Navison/Business Central empezó mi carrera profesional como "programador de Business Central". 
 <br>
