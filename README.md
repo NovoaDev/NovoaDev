@@ -1,10 +1,10 @@
 <a href="https://novoa.dev/" style="width:100%">
     <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/headerlogo.png" width="100%" alt="header" border="0" />
 </a>
-<img align='right' src="https://github.com/NovoaDev/NovoaDev/blob/main/res/cat.gif" height="" width="300" alt="coding cat">
 
 ### Sobre mi
 Hola, mi nombre es Antonio Novoa,
+<img align='right' src="https://github.com/NovoaDev/NovoaDev/blob/main/res/cat.gif" height="" width="300" alt="coding cat">
 <br>
 Me considero una persona creativa, correcta, dispersa e inquieta.
 <br>
