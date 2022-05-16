@@ -2,13 +2,13 @@
     <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/headerlogo.png" width="100%" alt="header" border="0" />
 </a>
 
-### Sobre mi:
+### Sobre mi
 Hola, mi nombre es Antonio Novoa,
 <img align='right' src="https://github.com/NovoaDev/NovoaDev/blob/main/res/cat.gif" height="" width="300" alt="coding cat">
 <br>
 Me considero una persona creativa, correcta, dispersa e inquieta.
 <br>
-A finales del 2018 por cosas de la vida conocí el mundo del ERP. Sin conocer nada de la historia de Navison/Business Central empezó mi carrera profesional como "programador de Business Central". 
+A finales del 2018 por cosas de la vida conocí el mundo del ERP, sin saber nada de Navison/Business Central ni su historia empezó mi carrera profesional como "programador de Business Central". 
 <br>
 Aunque había programado año y medio en otra tecnología en mi anterior trabajo todo era nuevo para mi. Me encontré de frente con una pared inmensa. Tantos conceptos, tanta teoria y tanto mundo por descrubrir.  
 
@@ -32,11 +32,12 @@ Bio completa novoa.dev/about
 ### Proyecto
 A mediados del 2022 empiezo a crear un nuevo proyecto llamado "Beerness Central" la idea es que inicie a finales de dicho año.
 <br>
-Me encantaría poder organizar una comunidad impulsada por la pasión, donde conozcamos gente con los mismos intereses, contemos nuestra historia en BC, aciertos, desaciertos, etc. Si con eso podemos aportar valor a otras personas es lo que nos llevamos.
+Me encantaría poder organizar una comunidad tecnica impulsada por la pasión, donde conozcamos gente con los mismos intereses, contemos nuestra historia en BC, aciertos, desaciertos, etc. Si con eso podemos aportar valor a otras personas es lo que nos llevamos.
+Poder recibir y brindar feedback positivo/constructivos en un entorno de amigos.
 <br>
 WIP BIO.
 <br>
-Recibir y brindar feedback positivo y constructivos.
+
 <br>
 <a href="https://discord.gg/ssf9QkGGQE">![Discord](https://img.shields.io/discord/974752053471629322?logo=discord&style=flat-square&label=Grupo%20de%20Discord)</a>
 
