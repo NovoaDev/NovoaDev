@@ -37,8 +37,6 @@ Poder recibir y brindar feedback positivo/constructivos en un entorno de amigos.
 <br>
 WIP BIO.
 <br>
-
-<br>
 <a href="https://discord.gg/ssf9QkGGQE">![Discord](https://img.shields.io/discord/974752053471629322?logo=discord&style=flat-square&label=Grupo%20de%20Discord)</a>
 
 ### Redes
