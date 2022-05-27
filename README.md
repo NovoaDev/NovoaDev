@@ -8,10 +8,9 @@ Hola, mi nombre es Antonio Novoa,
 <br>
 Me considero una persona creativa, correcta, dispersa e inquieta.
 <br>
-A finales del 2018 por cosas de la vida conocí el mundo del ERP, sin saber nada de Navison/Business Central ni su historia empezó mi carrera profesional como "programador de Business Central". 
-<br>
-Aunque había programado año y medio en otra tecnología en mi anterior trabajo todo era nuevo para mi. Me encontré de frente con una pared inmensa. Tantos conceptos, tanta teoria y tanto mundo por descrubrir.  
-
+A finales del 2018 por cosas de la vida conocí el inmenso mundo del ERP, hasta ese momento no había escuchado nada de Navinson/business Central ni su historia. 
+Aunque había programado año y medio en otra tecnología en mi anterior trabajo todo era nuevo para mí. 
+Me encontré con una pared inmensa, tantos conceptos, tanta teoria y tanto mundo por descrubrir. Ahí empezó mi carrera profesional como "programador de Business Central"
 Bio completa novoa.dev/about
 
 ### Tecnologías
@@ -30,7 +29,7 @@ Bio completa novoa.dev/about
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 ### Proyecto
-A mediados del 2022 empiezo a crear un nuevo proyecto llamado "Beerness Central" la idea es que inicie a finales de dicho año.
+A mediados del 2022 empiezo a crear mi proyecto llamado "Beerness Central" la idea es que inicie a finales de dicho año.
 <br>
 Me encantaría poder organizar una comunidad tecnica impulsada por la pasión, donde conozcamos gente con los mismos intereses, contemos nuestra historia en BC, aciertos, desaciertos, etc. Si con eso podemos aportar valor a otras personas es lo que nos llevamos.
 Poder recibir y brindar feedback positivo/constructivos en un entorno de amigos.
