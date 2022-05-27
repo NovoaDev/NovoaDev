@@ -12,7 +12,7 @@ Aunque había programado año y medio en otra tecnología en mi anterior trabajo
 Me encontré con una pared inmensa, tantos conceptos, tanta teoria y tanto mundo por descrubrir. 
 
 
-<div> Así empezó mi carrera profesional como "programador de Business Central"  
+<div> Así empezó mi carrera como "programador de Business Central"  
 <div> <img align='right' src="https://github.com/NovoaDev/NovoaDev/blob/main/res/cat.gif" height="" width="300" alt="coding cat"></div>
 Bio completa novoa.dev/about
 </div>
