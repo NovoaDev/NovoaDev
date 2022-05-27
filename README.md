@@ -4,14 +4,18 @@
 
 ### Sobre mi
 Hola, mi nombre es Antonio Novoa,
-<img align='right' src="https://github.com/NovoaDev/NovoaDev/blob/main/res/cat.gif" height="" width="300" alt="coding cat">
 <br>
 Me considero una persona creativa, correcta, dispersa e inquieta.
-<br>
+<br> 
 A finales del 2018 por cosas de la vida conocí el inmenso mundo del ERP, hasta ese momento no había escuchado nada de Navinson/business Central ni su historia. 
 Aunque había programado año y medio en otra tecnología en mi anterior trabajo todo era nuevo para mí. 
-Me encontré con una pared inmensa, tantos conceptos, tanta teoria y tanto mundo por descrubrir. Ahí empezó mi carrera profesional como "programador de Business Central"
+Me encontré con una pared inmensa, tantos conceptos, tanta teoria y tanto mundo por descrubrir. 
+
+
+<div> Así empezó mi carrera profesional como "programador de Business Central"  
+<div> <img align='right' src="https://github.com/NovoaDev/NovoaDev/blob/main/res/cat.gif" height="" width="300" alt="coding cat"></div>
 Bio completa novoa.dev/about
+</div>
 
 ### Tecnologías
 ![AL](https://img.shields.io/badge/-AL-black?style=flat-square&logo=Microsoft)
