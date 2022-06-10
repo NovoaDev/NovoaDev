@@ -24,8 +24,6 @@ Bio completa novoa.dev/about
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 ![SlqServer](https://img.shields.io/badge/-SqlServer-black?style=flat-square&logo=microsoftsqlserver)
 ![DevOps](https://img.shields.io/badge/-DevOps-black?style=flat-square&logo=Azure-DevOps)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=GitLab)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
