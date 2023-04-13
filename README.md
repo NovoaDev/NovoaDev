@@ -3,18 +3,14 @@
 </a>
 
 ### Sobre mi
-Hola, mi nombre es Antonio Novoa,
+Hello, my name is Antonio Novoa,
 <br>
-Me considero una persona creativa, correcta, dispersa e inquieta.
-<br> 
-A finales del 2018 por cosas de la vida conocí el inmenso mundo del ERP, hasta ese momento no había escuchado nada de Navinson/business Central ni su historia. 
-Aunque había programado año y medio en otra tecnología en mi anterior trabajo todo era nuevo para mí. 
-Me encontré con una pared inmensa, tantos conceptos, tanta teoria y tanto mundo por descrubrir. 
+I consider myself a creative, correct, curious, dispersed and restless person. I am an animal and nature lover. I enjoy spending time outdoors and discovering new wonders of nature.
+<br>
+At the end of 2018, by chance of life, I discovered the immense world of ERP. Up to that point, I had never heard of Navinson/Business Central or its history. Although I had worked for a year and a half as a programmer in another technology in my previous job, everything was completely new to me. I was confronted with a huge wall of concepts, theories and a world to discover.
 
-
-<div> Así empezó mi carrera como "programador de Business Central"  
+<div> This is how my career as a "Microsoft Dynamics 365 Business Central Developer" began.
 <div> <img align='right' src="https://github.com/NovoaDev/NovoaDev/blob/main/res/cat.gif" height="" width="300" alt="coding cat"></div>
-Bio completa novoa.dev/about
 </div>
 
 ### Tecnologías
@@ -24,16 +20,9 @@ Bio completa novoa.dev/about
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 ![SlqServer](https://img.shields.io/badge/-SqlServer-black?style=flat-square&logo=microsoftsqlserver)
 ![DevOps](https://img.shields.io/badge/-DevOps-black?style=flat-square&logo=Azure-DevOps)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-
-### Proyecto
-A mediados del 2022 empiezo a crear mi proyecto llamado "Beerness Central" la idea es que inicie a finales de dicho año.
-<br>
-Me encantaría poder organizar una comunidad tecnica impulsada por la pasión, donde conozcamos gente con los mismos intereses, contemos nuestra historia en BC, aciertos, desaciertos, etc. Si con eso podemos aportar valor a otras personas es lo que nos llevamos.
-Poder recibir y brindar feedback positivo/constructivos en un entorno de amigos.
-<br>
-WIP BIO.
 <br>
 <a href="https://discord.gg/ssf9QkGGQE">![Discord](https://img.shields.io/discord/974752053471629322?logo=discord&style=flat-square&label=Grupo%20de%20Discord)</a>
 
