@@ -25,7 +25,7 @@ At the end of 2018, by chance of life, I discovered the immense world of ERP. Up
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 ### Networks
-[<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/instagram.svg" alt="instagram" width="25"></img>](https://www.instagram.com/novoadev) &nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;
+[<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/instagram.svg" alt="instagram" width="25"></img>](https://www.instagram.com/novoadev) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/linkedin.svg" alt="linkedin" width="25"></img>](https://linkedin.com/in/novoadev) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/twitch.svg" alt="twitch" width="25"></img>](https://www.twitch.tv/novoadev) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/twitter.svg" alt="twitter" width="25"></img>](https://twitter.com/NovoaDev) &nbsp;&nbsp;&nbsp;
