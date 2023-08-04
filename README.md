@@ -31,5 +31,5 @@ At the end of 2018, by chance of life, I discovered the immense world of ERP. Up
 [<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/twitter.svg" alt="twitter" width="25"></img>](https://twitter.com/NovoaDev) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/youtube.svg" alt="tiktok" width="25"></img>](https://www.youtube.com/channel/UCXEjWpvcc0lV8WsNnM8Oe-Q) &nbsp;&nbsp;&nbsp;
 
-**Know me more:**
+**Get to know me better:** <br>
 https://whoisnovoadev.powerappsportals.com/
