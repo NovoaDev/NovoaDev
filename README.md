@@ -5,7 +5,7 @@
 ### About me
 Hello, my name is Antonio Novoa,
 <br>
-I consider myself a creative, correct, curious, dispersed and restless person. I am an animal and nature lover. I enjoy spending time outdoors and discovering new wonders of nature.
+I consider myself a creative, righteous, curious, dispersed and restless person. I am an animal and nature lover. I enjoy spending time outdoors and discovering new wonders of nature.
 <br>
 At the end of 2018, by chance of life, I discovered the immense world of ERP. Up to that point, I had never heard of Navinson/Business Central or its history. Although I had worked for a year and a half as a programmer in another technology in my previous job, everything was completely new to me. I was confronted with a huge wall of concepts, theories and a world to discover.
 
