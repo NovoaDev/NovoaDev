@@ -17,7 +17,7 @@
     </p>
 </div>
 
-### :neckbeard: &nbsp;Technologies I use every day
+### :neckbeard: &nbsp;Technologies I use in my daily
 ![AL](https://img.shields.io/badge/-AL-black?style=flat-square&logo=Microsoft)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=PowerShell)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
