@@ -30,8 +30,8 @@
 
 ### :bar_chart: &nbsp;GitHub Analytics
 <div>
-    <img height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NovoaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NovoaDev&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NovoaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NovoaDev&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ### :hearts: &nbsp;Get to know me better:
