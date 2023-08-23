@@ -28,16 +28,18 @@
     <tr>
         <td width="20%" border="0">
         <div> 
-            <img align='left' src="https://github.com/NovoaDev/NovoaDev/blob/main/res/cat.gif" height="" width="200" alt="coding cat">
+            <img align='left' src="https://github.com/NovoaDev/NovoaDev/blob/main/res/cat.gif" height="100%" width="" alt="coding cat">
         </div>                                                                              
     </td>
-        <td width="80%">
+        <td width="46%">
             <p align="Left">
-                <a href="https://github.com/NovoaDev">
-                  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NovoaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-                  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NovoaDev&layout=compact&langs_count=8&theme=tokyonight"/>
-                </a>
-            </p>
+                  <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NovoaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+              </p>
+        </td>
+        <td width="34%">
+            <p align="Left">
+                  <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NovoaDev&layout=compact&langs_count=8&theme=tokyonight"/>
+              </p>
         </td>
     </tr>
 </table>   
