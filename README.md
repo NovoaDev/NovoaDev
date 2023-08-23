@@ -28,7 +28,7 @@
     <tr>
         <td width="20%" border="0">
         <div> 
-            <img align='left' src="https://github.com/NovoaDev/NovoaDev/blob/main/res/cat.gif" height="100%" width="" alt="coding cat">
+            <img align='left' src="https://github.com/NovoaDev/NovoaDev/blob/main/res/cat.gif" height="" width="100%" alt="coding cat">
         </div>                                                                              
     </td>
         <td width="46%">
