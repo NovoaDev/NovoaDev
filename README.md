@@ -28,7 +28,6 @@
 ![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=PowerShell)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
-![SlqServer](https://img.shields.io/badge/-SqlServer-black?style=flat-square&logo=microsoftsqlserver)
 ![DevOps](https://img.shields.io/badge/-DevOps-black?style=flat-square&logo=Azure-DevOps)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)
 
