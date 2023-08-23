@@ -7,16 +7,14 @@
 <br> 
 <div align="Left">
     <p align="Left">
-        At the end of 2018, by chance of life, I discovered the immense world of ERP. Up to that point, I had never heard of Navinson/Business Central or its history. Although I had worked for a year     and a half as a programmer in another technology in my previous job, everything was completely new to me. I was confronted with a huge wall of concepts, theories and a world to discover.
+        At the end of 2018, by chance of life, I discovered the immense world of ERP. Up to that point, I had never heard of Navinson/Business Central or its history. Although I had worked for a year     and a half as a programmer in another technology in my previous job, everything was completely new to me. I was confronted with a huge wall of concepts, theories and a world to discover. <br> 
         <br>
+            <a href="https://novoa.dev/">    
+                <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/cat.gif" width="30%" />
+            </a>
+        <br><br> 
         This is how my career as a "Microsoft Dynamics 365 Business Central Developer" began.
     </p>
-</div>
-<br>
-<div align="Left"> 
-    <a href="https://novoa.dev/">    
-        <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/cat.gif" width="30%" />
-    </a>
 </div>
 
 ### :neckbeard: &nbsp;Technologies I use every day
@@ -32,8 +30,8 @@
 
 ### :bar_chart: &nbsp;GitHub Analytics
 <div>
-    <img height="70%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NovoaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="30%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NovoaDev&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NovoaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NovoaDev&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ### :hearts: &nbsp;Get to know me better:
