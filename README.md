@@ -1,5 +1,5 @@
 <div align="Left">
-<h2 align="Left">Hello, my name is <a href="https://whoisnovoadev.powerappsportals.com">Antonio Novoa</a> 👋</h2>
+    <h2 align="Left">Hello, my name is <a href="https://whoisnovoadev.powerappsportals.com">Antonio Novoa</a> 👋</h2>
 </div>
 <a href="https://novoa.dev/" style="width:100%">
     <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/headerlogo.jpeg" width="100%" alt="header" border="0" />
@@ -24,7 +24,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 ### :bar_chart: &nbsp;GitHub Analytics
-<table border="0">
+<table border="0" cellpadding="0" style="border: none;">
     <tr>
         <td width="20%" border="0">
         <div> 
