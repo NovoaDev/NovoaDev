@@ -17,6 +17,12 @@
     </p>
 </div>
 
+### :bar_chart: &nbsp;GitHub Analytics
+<div>
+    <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NovoaDev&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+    <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NovoaDev&layout=compact&langs_count=8&theme=graywhite"/>
+</div>
+
 ### :neckbeard: &nbsp;Technologies I use in my daily
 ![AL](https://img.shields.io/badge/-AL-black?style=flat-square&logo=Microsoft)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=PowerShell)
@@ -25,14 +31,32 @@
 ![SlqServer](https://img.shields.io/badge/-SqlServer-black?style=flat-square&logo=microsoftsqlserver)
 ![DevOps](https://img.shields.io/badge/-DevOps-black?style=flat-square&logo=Azure-DevOps)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-### :bar_chart: &nbsp;GitHub Analytics
-<div>
-    <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NovoaDev&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-    <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NovoaDev&layout=compact&langs_count=8&theme=graywhite"/>
-</div>
+### :man: &nbsp;Business Central:
+<p align="left">
+    <a href="https://github.com/NovoaDev/Dependency-Graph-BCExt"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Dependency-Graph-BCExt&theme=graywhite&show_icons=false"></a>
+    <a href="https://github.com/NovoaDev/Business-Central-Examples"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Business-Central-Examples&theme=graywhite&show_icons=false"></a>
+</p>
 
-### :hearts: &nbsp;Get to know me better:
+### :boy: &nbsp;Scripting:
+<p align="left">
+    <a href="https://github.com/NovoaDev/Script-Pre-Upgrade-Dynamics-NAV"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Script-Pre-Upgrade-Dynamics-NAV&theme=graywhite&show_icons=false"></a>
+    <a href="https://github.com/NovoaDev/NotAAzurePipilineCesitar"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=NotAAzurePipilineCesitar&theme=graywhite&show_icons=false"></a>
+    <a href="https://github.com/NovoaDev/Arp_Poison_Defender"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Arp_Poison_Defender&theme=graywhite&show_icons=false"></a>
+</p>
+
+### :baby: &nbsp;Power Platform:
+<p align="left">
+    <a href="https://github.com/NovoaDev/Historico-de-pesadas"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Historico-de-pesadas&theme=graywhite&show_icons=false"></a>
+    <a href="https://github.com/NovoaDev/Workshop-AI-Skills-Challenge-PowerPlatformZaragoza"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Workshop-AI-Skills-Challenge-PowerPlatformZaragoza&theme=graywhite&show_icons=false"></a>
+</p>
+
+### :see_no_evil: &nbsp;Others:
+<p align="left">
+    <a href="https://github.com/NovoaDev/Drunk_Parrot"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Drunk_Parrot&theme=graywhite&show_icons=false"></a>
+    <a href="https://github.com/NovoaDev/Sistema-de-riego-Arduino-Node-En-construccion-"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Sistema-de-riego-Arduino-Node-En-construccion-&theme=graywhite&show_icons=false"></a>
+    <a href="https://github.com/NovoaDev/RememberMe-"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=RememberMe-&theme=graywhite&show_icons=false"></a>
+</p>
+
+### :mag_right: &nbsp;Get to know me better:
 https://whoisnovoadev.powerappsportals.com/
