@@ -24,25 +24,25 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 ### :bar_chart: &nbsp;GitHub Analytics
-<table border="0" cellpadding="0" style="border: none;">
+<table border="0" cellpadding="0" style="border-collapse: collapse;">
     <tr>
-        <td width="20%" border="0">
-        <div> 
-            <img align='left' src="https://github.com/NovoaDev/NovoaDev/blob/main/res/cat.gif" height="" width="100%" alt="coding cat">
-        </div>                                                                              
-    </td>
-        <td width="46%">
-            <p align="Left">
-                  <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NovoaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-              </p>
+        <td width="20%" style="border: none;">
+            <div> 
+                <img align='left' src="https://github.com/NovoaDev/NovoaDev/blob/main/res/cat.gif" height="" width="100%" alt="coding cat">
+            </div>                                                                              
         </td>
-        <td width="34%">
+        <td width="46%" style="border: none;">
             <p align="Left">
-                  <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NovoaDev&layout=compact&langs_count=8&theme=tokyonight"/>
-              </p>
+                <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NovoaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+            </p>
+        </td>
+        <td width="34%" style="border: none;">
+            <p align="Left">
+                <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NovoaDev&layout=compact&langs_count=8&theme=tokyonight"/>
+            </p>
         </td>
     </tr>
-</table>   
+</table>
 
 ### :hearts: &nbsp;Get to know me better:
 https://whoisnovoadev.powerappsportals.com/
