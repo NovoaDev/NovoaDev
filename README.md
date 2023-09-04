@@ -34,6 +34,7 @@
 ### :man: &nbsp;Business Central:
 <p align="left">
     <a href="https://github.com/NovoaDev/Dependency-Graph-BCExt"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Dependency-Graph-BCExt&theme=graywhite&show_icons=false"></a>
+    <a href="https://github.com/NovoaDev/Referential-Integrity-Doctor-BCExt"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Referential-Integrity-Doctor-BCExt&theme=graywhite&show_icons=false"></a>
     <a href="https://github.com/NovoaDev/Business-Central-Examples"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Business-Central-Examples&theme=graywhite&show_icons=false"></a>
 </p>
 
