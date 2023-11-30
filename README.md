@@ -1,7 +1,7 @@
 <div align="Left">
     <h2 align="Left">Hello, my name is <a href="https://whoisnovoadev.powerappsportals.com">Antonio Novoa</a> 👋</h2>
     <a href="https://novoa.dev/">
-        <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/headerlogo.jpeg" width="100%" alt="header" border="0" />
+        <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/Github.jpg" width="100%" alt="header" border="0" />
     </a>
 </div>
 <br> 
