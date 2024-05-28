@@ -31,19 +31,30 @@
 ![DevOps](https://img.shields.io/badge/-DevOps-black?style=flat-square&logo=Azure-DevOps)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)
 
-### :man: &nbsp;Business Central:
+### :man_beard: &nbsp;Business Central:
 <p align="left">
     <a href="https://github.com/NovoaDev/Dependency-Graph-BCExt"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Dependency-Graph-BCExt&theme=graywhite&show_icons=false"></a>
-    <a href="https://github.com/NovoaDev/Referential-Integrity-Doctor-BCExt"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Referential-Integrity-Doctor-BCExt&theme=graywhite&show_icons=false"></a>
     <a href="https://github.com/NovoaDev/Business-Central-Examples"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Business-Central-Examples&theme=graywhite&show_icons=false"></a>
 </p>
 
-### :boy: &nbsp;Scripting:
+### :man: &nbsp;Scripting:
 <p align="left">
     <a href="https://github.com/NovoaDev/Script-Pre-Upgrade-Dynamics-NAV"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Script-Pre-Upgrade-Dynamics-NAV&theme=graywhite&show_icons=false"></a>
     <a href="https://github.com/NovoaDev/NotAAzurePipilineCesitar"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=NotAAzurePipilineCesitar&theme=graywhite&show_icons=false"></a>
     <a href="https://github.com/NovoaDev/Arp_Poison_Defender"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Arp_Poison_Defender&theme=graywhite&show_icons=false"></a>
 </p>
+
+### :adult: &nbsp;VSCode Ext.:
+<p align="left">
+    <a href="https://github.com/NovoaDev/Git-to-AL-project-configurator"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Git-to-AL-project-configurator&theme=graywhite&show_icons=false"></a>
+    <a href="https://github.com/NovoaDev/ESTRELLADOS-AL-DEVTOOLS-EAD-"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=ESTRELLADOS-AL-DEVTOOLS-EAD-&theme=graywhite&show_icons=false"></a>
+</p>
+
+### :child: &nbsp;Web browser Ext.:
+<p align="left">
+    <a href="https://github.com/NovoaDev/Business-Central-Table-Viewer"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Business-Central-Table-Viewer&theme=graywhite&show_icons=false"></a>
+</p>
+
 
 ### :baby: &nbsp;Power Platform:
 <p align="left">
