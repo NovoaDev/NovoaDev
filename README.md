@@ -31,7 +31,7 @@
 ![DevOps](https://img.shields.io/badge/-DevOps-black?style=flat-square&logo=Azure-DevOps)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)
 
-### :man_beard: &nbsp;Business Central:
+### :bearded_person: &nbsp;Business Central:
 <p align="left">
     <a href="https://github.com/NovoaDev/Dependency-Graph-BCExt"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Dependency-Graph-BCExt&theme=graywhite&show_icons=false"></a>
     <a href="https://github.com/NovoaDev/Business-Central-Examples"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Business-Central-Examples&theme=graywhite&show_icons=false"></a>
