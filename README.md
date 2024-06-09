@@ -39,6 +39,7 @@
 
 ### :man: &nbsp;Scripting:
 <p align="left">
+    <a href="https://github.com/NovoaDev/ANDoc"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=ANDoc&theme=graywhite&show_icons=false"></a>
     <a href="https://github.com/NovoaDev/Script-Pre-Upgrade-Dynamics-NAV"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Script-Pre-Upgrade-Dynamics-NAV&theme=graywhite&show_icons=false"></a>
     <a href="https://github.com/NovoaDev/NotAAzurePipilineCesitar"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=NotAAzurePipilineCesitar&theme=graywhite&show_icons=false"></a>
     <a href="https://github.com/NovoaDev/Arp_Poison_Defender"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=Arp_Poison_Defender&theme=graywhite&show_icons=false"></a>
