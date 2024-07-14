@@ -70,5 +70,29 @@
     <a href="https://github.com/NovoaDev/RememberMe-"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novoadev&repo=RememberMe-&theme=graywhite&show_icons=false"></a>
 </p>
 
+### Certifications
+<div style="display: flex; width: 200px; align-items: center; gap: 10px;">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/AntonioNovoa-7453/9562BFDDE077685D?sharingId=37DEC5740EE9A9A3">
+    <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/PL400.jpeg" alt="Power Platform Developer Associate" class="badge" width="100" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/AntonioNovoa-7453/D1AD4742B1DD4326?sharingId=37DEC5740EE9A9A3">
+    <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/AZ104.png" alt="Azure Administrator Associate" class="badge" width="100" />
+  </a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/AntonioNovoa-7453/16C9D5FA877489CE?sharingId=37DEC5740EE9A9A3">
+    <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/MB820.png" alt="Dynamics 365 Business Central Developer Associate" class="badge" width="100" />
+  </a>
+  <br>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/AntonioNovoa-7453/ADF0AD29DB9778C3?sharingId=37DEC5740EE9A9A3">
+    <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/AZ900.png" alt="Azure Fundamentals" class="badge" width="100" />
+  </a>
+   <a href="https://learn.microsoft.com/api/credentials/share/en-us/AntonioNovoa-7453/3C52C918426726BB?sharingId=37DEC5740EE9A9A3">
+    <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/AI900.png" alt="Azure AI Fundamentals" class="badge" width="100" />
+  </a>
+  <br>
+    <a href="https://www.credly.com/badges/07ee9db0-f882-4fb0-bf92-5973224a30f3/public_url">
+    <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/Foundations.png" alt="GitHub Foundations" class="badge" width="100" />
+  </a>
+</div>
+
 ### :mag_right: &nbsp;Get to know me better:
 https://whoisnovoadev.powerappsportals.com/
