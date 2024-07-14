@@ -72,14 +72,14 @@
 
 ### Certifications
 <div style="display: flex; width: 200px; align-items: center; gap: 10px;">
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/AntonioNovoa-7453/9562BFDDE077685D?sharingId=37DEC5740EE9A9A3">
-    <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/PL400.jpeg" alt="Power Platform Developer Associate" class="badge" width="100" />
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/AntonioNovoa-7453/16C9D5FA877489CE?sharingId=37DEC5740EE9A9A3">
+    <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/MB820.png" alt="Dynamics 365 Business Central Developer Associate" class="badge" width="100" />
   </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/AntonioNovoa-7453/D1AD4742B1DD4326?sharingId=37DEC5740EE9A9A3">
     <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/AZ104.png" alt="Azure Administrator Associate" class="badge" width="100" />
   </a>
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/AntonioNovoa-7453/16C9D5FA877489CE?sharingId=37DEC5740EE9A9A3">
-    <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/MB820.png" alt="Dynamics 365 Business Central Developer Associate" class="badge" width="100" />
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/AntonioNovoa-7453/9562BFDDE077685D?sharingId=37DEC5740EE9A9A3">
+    <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/PL400.png" alt="Power Platform Developer Associate" class="badge" width="100" />
   </a>
   <br>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/AntonioNovoa-7453/ADF0AD29DB9778C3?sharingId=37DEC5740EE9A9A3">
