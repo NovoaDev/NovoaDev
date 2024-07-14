@@ -86,7 +86,7 @@
     <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/AZ900.png" alt="Azure Fundamentals" class="badge" width="100" />
   </a>
    <a href="https://learn.microsoft.com/api/credentials/share/en-us/AntonioNovoa-7453/3C52C918426726BB?sharingId=37DEC5740EE9A9A3">
-    <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/AI900.jpeg" alt="Azure AI Fundamentals" class="badge" width="100" />
+    <img src="https://github.com/NovoaDev/NovoaDev/blob/main/res/AI900.png" alt="Azure AI Fundamentals" class="badge" width="100" />
   </a>
   <br>
     <a href="https://www.credly.com/badges/07ee9db0-f882-4fb0-bf92-5973224a30f3/public_url">
